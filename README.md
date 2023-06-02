@@ -10,7 +10,12 @@ Each cube and sphere contains a script that changes its color (for a configurabl
 And so on…
 
 <b>Appearance</b>:
+
+
 ![Image alt](https://github.com/DenisPavlov0/Color-object-generator/raw/main/Image3.png) 
 
+
 <b>Dice color setting moved to inspector</b>:
+
+
 ![Image alt](https://github.com/DenisPavlov0/Color-object-generator/raw/main/Image1.png) 
